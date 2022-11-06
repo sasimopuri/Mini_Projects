@@ -1,0 +1,23 @@
+#cE14D2A,#cFF8DC7,#c8758FF,#cFEDB39,#cB9E0FF,#c8D9EFF,#cFFB9B9,#c9F73AB,#cA3C7D6,#cB2B2B2,#c7895B2s{
+    width: 60px;
+    height: 60px;
+    
+}
+.container{
+    display: flex;
+    height: 91vh;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: rebeccapurple;
+    margin: auto;
+    top: 250px;
+    position: relative;
+    border-radius: 50%;
+    
+}
