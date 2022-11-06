@@ -1,0 +1,24 @@
+
+
+.clock{
+    padding: 10px;
+    display: flex;
+    width: 68%;
+    justify-content: center;
+    column-gap: 10px;
+    font-size: 150px;
+    margin: auto;
+    top: 200px;
+    position: relative;
+    background-color: #EAEAEA;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px 2px #B2B2B2;
+}
+
+span{
+    text-align: center;
+    background-color: #EAEAEA;
+    min-width: 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+
