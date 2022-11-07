@@ -1,0 +1,33 @@
+.name{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    align-items: center;
+    
+}
+
+
+body{
+    background-color: #D8D9CF       ;
+}
+.container{
+    margin-top: 30px;
+    background-color: aqua;
+}
+#name{
+    border: 2px solid #D8D9CF;
+    border-radius: 15px;
+    height: 40px;
+    text-align: center;
+}
+#name:focus{
+    background-color: #EDEDED;
+
+}
+
+.material-symbols-outlined{
+    cursor: pointer;
+}
+.heading{
+    
+}
